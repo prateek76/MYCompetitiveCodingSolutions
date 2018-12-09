@@ -1,0 +1,43 @@
+
+Details-
+
+Name : Prateek(2nd year student)
+course : electronics and communication engineering(ECE) btech 4years
+college : Indian institute of information technology Allahabad (IIIT-A)
+
+position of responsibility :
+ Member of Geekheaven technical society at IIIT Allahabad web development wing.
+ Member of IEEE student branch IIIT-A web development wing.
+
+Projects-
+
+1) Realtime chat application (for WEB, IOS, ANDROID)
+
+-> Technology used( for WEB APPLICATION ):
+HTML
+CSS
+JAVASCRIPT
+PHP(for managing backhend)
+SQL(for managing DATABASE)
+Ratchet ( PHP WEB SOCKETS for real time chat experience )
+JSON WEB TOKENS (JWT) for encryption of user credentials 
+
+-> Technology used( for IOS AND ANDROID ):
+REACT NATIVE
+CSS
+PHP(for managing backhend)
+SQL(for managing DATABASE)
+Ratchet ( PHP WEB SOCKETS for real time chat experience )
+JSON WEB TOKENS (JWT) for encryption of user credentials 
+
+-> Facilities:
+One on One chat facility
+Group chat
+groups upto 400 members can be made
+Realtime chats
+multimedia sharing
+Messages can be seen in offline mode
+Chat with bot to convert english messages to spanish
+
+This application has lot of work in javascript in web application and about 95% of code for android and ios native development is Written in REACT
+
